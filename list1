@@ -1,0 +1,190 @@
+{
+  "questions": [
+    {
+      "type": "list",
+      "id": "5c890ff475a4a5d219000010",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "bronchitis and bronchial asthma"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c8c095e0101eac870000002",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "macrophages"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c9007460101eac870000012",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "miR-301a"
+        ],
+        [
+          "14-3-3"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c961281ecadf2e73f000021",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "pemphigus"
+        ],
+        [
+          "antisynthetase syndrome"
+        ],
+        [
+          "poly- and dermatomyositis"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c961603ecadf2e73f000022",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "multiple sclerosis"
+        ],
+        [
+          "autoimmune diseases"
+        ],
+        [
+          "corticosteroids"
+        ],
+        [
+          "poly- and dermatomyositis"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c979ffcecadf2e73f000028",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Toxocara cati"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c97f579ecadf2e73f00002a",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "central nervous system"
+        ],
+        [
+          "outer root sheath"
+        ],
+        [
+          "olfactory bulb"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c990afbecadf2e73f000030",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "TRIM49"
+        ],
+        [
+          "TRAF6"
+        ],
+        [
+          "MARCH7"
+        ],
+        [
+          "RING1"
+        ],
+        [
+          "UHRF1"
+        ],
+        [
+          "BARD1"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c9d18f1ecadf2e73f000033",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "MOP receptors"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c9f79c3ecadf2e73f00003d",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "IgA"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5c9fb583ecadf2e73f000042",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Why we build models of human performance"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "id": "5ca64b5becadf2e73f000051",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "moesin"
+        ],
+        [
+          "Ezrin/radixin/moesin"
+        ]
+      ]
+    }
+  ]
+}
